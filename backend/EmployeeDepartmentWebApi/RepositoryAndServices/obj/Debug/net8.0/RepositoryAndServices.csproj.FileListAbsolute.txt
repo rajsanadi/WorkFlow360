@@ -1,0 +1,85 @@
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\RepositoryAndServices\bin\Debug\net8.0\RepositoryAndServices.deps.json
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\RepositoryAndServices\bin\Debug\net8.0\RepositoryAndServices.runtimeconfig.json
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\RepositoryAndServices\bin\Debug\net8.0\RepositoryAndServices.dll
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\RepositoryAndServices\bin\Debug\net8.0\RepositoryAndServices.pdb
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\RepositoryAndServices\bin\Debug\net8.0\Domain.dll
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\RepositoryAndServices\bin\Debug\net8.0\Domain.pdb
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.csproj.AssemblyReference.cache
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.AssemblyInfoInputs.cache
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.AssemblyInfo.cs
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\Reposito.57D0E6F0.Up2Date
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.dll
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\refint\RepositoryAndServices.dll
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.pdb
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.genruntimeconfig.cache
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\ref\RepositoryAndServices.dll
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\bin\Debug\net8.0\RepositoryAndServices.deps.json
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\bin\Debug\net8.0\RepositoryAndServices.runtimeconfig.json
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\bin\Debug\net8.0\RepositoryAndServices.dll
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\bin\Debug\net8.0\RepositoryAndServices.pdb
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\bin\Debug\net8.0\Domain.dll
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\bin\Debug\net8.0\Domain.pdb
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.csproj.AssemblyReference.cache
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.AssemblyInfoInputs.cache
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.AssemblyInfo.cs
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\Reposito.57D0E6F0.Up2Date
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.dll
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\refint\RepositoryAndServices.dll
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.pdb
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.genruntimeconfig.cache
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\ref\RepositoryAndServices.dll
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\RepositoryAndServices\bin\Debug\net8.0\RepositoryAndServices.deps.json
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\RepositoryAndServices\bin\Debug\net8.0\RepositoryAndServices.runtimeconfig.json
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\RepositoryAndServices\bin\Debug\net8.0\RepositoryAndServices.dll
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\RepositoryAndServices\bin\Debug\net8.0\RepositoryAndServices.pdb
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\RepositoryAndServices\bin\Debug\net8.0\Domain.dll
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\RepositoryAndServices\bin\Debug\net8.0\Domain.pdb
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.csproj.AssemblyReference.cache
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.AssemblyInfoInputs.cache
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.AssemblyInfo.cs
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\Reposito.57D0E6F0.Up2Date
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.dll
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\refint\RepositoryAndServices.dll
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.pdb
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.genruntimeconfig.cache
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\ref\RepositoryAndServices.dll
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\bin\Debug\net8.0\RepositoryAndServices.deps.json
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\bin\Debug\net8.0\RepositoryAndServices.runtimeconfig.json
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\bin\Debug\net8.0\RepositoryAndServices.dll
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\bin\Debug\net8.0\RepositoryAndServices.pdb
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\bin\Debug\net8.0\Domain.dll
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\bin\Debug\net8.0\Domain.pdb
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.csproj.AssemblyReference.cache
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.AssemblyInfoInputs.cache
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.AssemblyInfo.cs
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\Reposito.57D0E6F0.Up2Date
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.dll
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\refint\RepositoryAndServices.dll
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.pdb
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.genruntimeconfig.cache
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\ref\RepositoryAndServices.dll
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\bin\Debug\net8.0\RepositoryAndServices.deps.json
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\bin\Debug\net8.0\RepositoryAndServices.runtimeconfig.json
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\bin\Debug\net8.0\RepositoryAndServices.dll
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\bin\Debug\net8.0\RepositoryAndServices.pdb
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\bin\Debug\net8.0\Domain.dll
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\bin\Debug\net8.0\Domain.pdb
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.csproj.AssemblyReference.cache
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.AssemblyInfoInputs.cache
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.AssemblyInfo.cs
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.csproj.CoreCompileInputs.cache
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\Reposito.57D0E6F0.Up2Date
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.dll
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\refint\RepositoryAndServices.dll
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.pdb
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\RepositoryAndServices.genruntimeconfig.cache
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\RepositoryAndServices\obj\Debug\net8.0\ref\RepositoryAndServices.dll

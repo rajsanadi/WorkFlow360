@@ -1,0 +1,353 @@
+/* Salaries Container */
+.salaries-container {
+  padding: 40px;
+  background: linear-gradient(135deg, #cde1fd 0%, #5b8bda 100%);
+  min-height: 100vh;
+}
+
+/* Heading Styling */
+.salaries-container h2 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+  margin-bottom: 30px;
+  text-align: center;
+  animation: fadeInDown 1s ease-out;
+}
+
+/* Controls Section */
+.controls-section {
+  margin-bottom: 20px;
+}
+
+/* Add Salary Button Styling */
+.add-salary-btn {
+  background: linear-gradient(45deg, #6a11cb 0%, #2575fc 100%);
+  border: none;
+  border-radius: 20px;
+  color: #fff;
+  padding: 8px 16px;
+  font-size: 0.9rem;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  font-weight: bold;
+}
+
+.add-salary-btn:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* Filter Form Styling */
+.filter-form {
+  background: #fff;
+  padding: 15px 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease;
+}
+
+.filter-form:hover {
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.filter-form .form-control {
+  border-radius: 5px;
+  transition: border-color 0.3s ease;
+}
+
+.filter-form .form-control:focus {
+  border-color: #6a11cb;
+  box-shadow: 0 0 5px rgba(106, 17, 203, 0.5);
+}
+
+/* Clear Filters Button Styling */
+.clear-filters-btn {
+  background: #ff4d4d;
+  border: none;
+  border-radius: 20px;
+  color: #fff;
+  padding: 8px 16px;
+  transition: background 0.3s ease, transform 0.3s ease;
+  font-weight: bold;
+}
+
+.clear-filters-btn:hover {
+  background: #ff1a1a;
+  transform: scale(1.05);
+}
+
+/* Report Section Styling */
+.report-section {
+  background: #fff;
+  padding: 15px 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease;
+  margin-bottom: 20px;
+}
+
+.report-section:hover {
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.report-section .form-group {
+  margin-bottom: 0;
+}
+
+.report-section .form-label {
+  font-weight: 500;
+}
+
+.report-section .form-control {
+  border-radius: 5px;
+  transition: border-color 0.3s ease;
+}
+
+.report-section .form-control:focus {
+  border-color: #6a11cb;
+  box-shadow: 0 0 5px rgba(106, 17, 203, 0.5);
+}
+
+/* Salaries Table Styling */
+.salaries-table {
+  margin-top: 30px;
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.salaries-table:hover {
+  transform: translateY(-3px);
+}
+
+.salaries-table th,
+.salaries-table td {
+  text-align: center;
+  vertical-align: middle;
+  padding: 12px 15px;
+  transition: background 0.3s ease;
+}
+
+.salaries-table thead {
+  background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+  color: #fff;
+}
+
+.salaries-table tbody tr:nth-child(even) {
+  background: #f9f9f9;
+}
+
+.salaries-table tbody tr:hover {
+  background: #f1f1f1;
+}
+
+/* Report Table Styling */
+.report-table {
+  margin-top: 20px;
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.report-table:hover {
+  transform: translateY(-3px);
+}
+
+.report-table th,
+.report-table td {
+  text-align: center;
+  vertical-align: middle;
+  padding: 12px 15px;
+  transition: background 0.3s ease;
+}
+
+.report-table thead {
+  background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+  color: #fff;
+}
+
+.report-table tbody tr:nth-child(even) {
+  background: #f9f9f9;
+}
+
+.report-table tbody tr:hover {
+  background: #f1f1f1;
+}
+
+/* Action Buttons Styling */
+.action-btn {
+  border: none;
+  border-radius: 5px;
+  padding: 6px 10px;
+  color: #fff;
+  cursor: pointer;
+  transition: background 0.3s ease, transform 0.3s ease;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.edit-btn {
+  background: #ffc107;
+  margin-right: 5px;
+}
+
+.edit-btn:hover {
+  background: #e0a800;
+  transform: scale(1.1);
+}
+
+.delete-btn {
+  background: #dc3545;
+}
+
+.delete-btn:hover {
+  background: #c82333;
+  transform: scale(1.1);
+}
+
+/* React Icons Styling */
+.action-btn svg {
+  font-size: 1rem;
+}
+
+/* Modal Styling */
+.modal-content {
+  border-radius: 15px;
+  animation: slideIn 0.5s ease-out;
+}
+
+.modal-header {
+  background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+  color: #fff;
+  border-bottom: none;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.modal-title {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.modal-body {
+  padding: 20px;
+}
+
+.modal-footer {
+  border-top: none;
+  padding: 15px 20px;
+}
+
+/* Confirm Modal Body */
+.confirm-modal-body {
+  font-size: 1.1rem;
+  color: #333;
+}
+
+/* Loading and Error Messages */
+.status-message {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #6a11cb;
+  margin-top: 20px;
+  animation: fadeIn 1s ease-in-out;
+}
+
+.status-error {
+  color: #dc3545;
+  animation: shake 0.5s;
+}
+
+/* Animations */
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(-50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes shake {
+  0% {
+    transform: translateX(0);
+  }
+  25% {
+    transform: translateX(-5px);
+  }
+  50% {
+    transform: translateX(5px);
+  }
+  75% {
+    transform: translateX(-5px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .salaries-container {
+    padding: 20px;
+  }
+
+  .salaries-table th,
+  .salaries-table td {
+    padding: 10px 8px;
+    font-size: 0.9rem;
+  }
+
+  .action-btn {
+    padding: 4px 8px;
+    font-size: 0.8rem;
+  }
+
+  .action-btn svg {
+    font-size: 0.9rem;
+  }
+
+  .add-salary-btn {
+    padding: 8px 16px;
+    font-size: 0.9rem;
+  }
+
+  .clear-filters-btn {
+    padding: 6px 12px;
+    font-size: 0.9rem;
+  }
+
+  .report-section .form-control,
+  .report-section .form-select {
+    font-size: 0.9rem;
+  }
+
+  .report-section .form-label {
+    font-size: 0.95rem;
+  }
+}

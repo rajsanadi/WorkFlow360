@@ -1,0 +1,243 @@
+.departments-container {
+  padding: 40px;
+  background: linear-gradient(135deg, #cde1fd 0%, #5b8bda 100%);
+  min-height: 100vh;
+}
+
+/* Heading Styling */
+.departments-container h2 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+  margin-bottom: 30px;
+  text-align: center;
+  animation: fadeInDown 1s ease-out;
+}
+
+/* Add Department Button Styling */
+.add-department-btn {
+  background: linear-gradient(45deg, #6a11cb 0%, #2575fc 100%);
+  border: none;
+  border-radius: 10px;
+  color: #fff;
+  padding: 8px 12px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.add-department-btn:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* Search Form Styling */
+.search-form {
+  background: #fff;
+  padding: 15px 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease;
+}
+
+.search-form:hover {
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.search-form .form-control {
+  border-radius: 5px;
+  transition: border-color 0.3s ease;
+}
+
+.search-form .form-control:focus {
+  border-color: #6a11cb;
+  box-shadow: 0 0 5px rgba(106, 17, 203, 0.5);
+}
+
+/* Clear Search Button Styling */
+.clear-search-btn {
+  background: #ff4d4d;
+  border: none;
+  border-radius: 20px;
+  color: #fff;
+  padding: 8px 16px;
+  transition: background 0.3s ease, transform 0.3s ease;
+}
+
+.clear-search-btn:hover {
+  background: #ff1a1a;
+  transform: scale(1.05);
+}
+
+/* Table Styling */
+.departments-table {
+  margin-top: 30px;
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.departments-table th,
+.departments-table td {
+  text-align: center;
+  vertical-align: middle;
+  padding: 12px 15px;
+  transition: background 0.3s ease;
+}
+
+.departments-table thead {
+  background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+  color: #fff;
+}
+
+.departments-table tbody tr:nth-child(even) {
+  background: #f9f9f9;
+}
+
+.departments-table tbody tr:hover {
+  background: #f1f1f1;
+}
+
+/* Action Buttons Styling */
+.action-btn {
+  border: none;
+  border-radius: 5px;
+  padding: 6px 10px;
+  color: #fff;
+  cursor: pointer;
+  transition: background 0.3s ease, transform 0.3s ease;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.edit-btn {
+  background: #ffc107;
+  margin-right: 5px;
+}
+
+.edit-btn:hover {
+  background: #e0a800;
+  transform: scale(1.1);
+}
+
+.delete-btn {
+  background: #dc3545;
+}
+
+.delete-btn:hover {
+  background: #c82333;
+  transform: scale(1.1);
+}
+
+/* React Icons Styling */
+.action-btn svg {
+  font-size: 1rem;
+}
+
+/* Modal Styling */
+.modal-content {
+  border-radius: 15px;
+  animation: slideIn 0.5s ease-out;
+}
+
+.modal-header {
+  background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+  color: #fff;
+  border-bottom: none;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.modal-title {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.modal-body {
+  padding: 20px;
+}
+
+.modal-footer {
+  border-top: none;
+  padding: 15px 20px;
+}
+
+/* Confirm Modal Body */
+.confirm-modal-body {
+  font-size: 1.1rem;
+  color: #333;
+}
+
+/* Loading and Error Messages */
+.status-message {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #6a11cb;
+  margin-top: 20px;
+  animation: fadeIn 1s ease-in-out;
+}
+
+.status-error {
+  color: #dc3545;
+  animation: shake 0.5s;
+}
+
+/* Animations */
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(-50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes shake {
+  0% { transform: translateX(0); }
+  25% { transform: translateX(-5px); }
+  50% { transform: translateX(5px); }
+  75% { transform: translateX(-5px); }
+  100% { transform: translateX(0); }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .departments-container {
+    padding: 20px;
+  }
+
+  .departments-table th,
+  .departments-table td {
+    padding: 10px 8px;
+    font-size: 0.9rem;
+  }
+
+  .action-btn {
+    padding: 4px 8px;
+    font-size: 0.8rem;
+  }
+
+  .action-btn svg {
+    font-size: 0.9rem;
+  }
+}

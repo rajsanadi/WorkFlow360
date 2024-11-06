@@ -1,0 +1,109 @@
+/* Navbar Container */
+.custom-navbar {
+  background: linear-gradient(135deg, #6a11cb, #2575fc);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 15px 0;
+  border-radius: 0 0 10px 10px;
+  transition: background 0.3s ease;
+}
+
+/* Brand Styling */
+.navbar-brand-custom {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #fff !important;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease;
+}
+
+.navbar-brand-custom:hover {
+  transform: scale(1.05);
+}
+
+/* Navbar Toggle Button */
+.navbar-toggler {
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath stroke='rgba%28255, 255, 255, 0.5%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+/* Nav Links */
+.nav-link-custom {
+  color: #fff !important;
+  font-size: 1.1rem;
+  padding: 10px 15px;
+  transition: background 0.3s ease, color 0.3s ease;
+  border-radius: 10px;
+  font-weight: 500;
+}
+
+.nav-link-custom:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  color: #e0e0e0 !important;
+}
+
+/* Active Link Styling */
+.nav-link-custom.active {
+  background-color: rgba(255, 255, 255, 0.3);
+  color: #f0f0f0 !important;
+  font-weight: bold;
+}
+
+/* Logout Button */
+.logout-button {
+  background: linear-gradient(135deg, #1094ec, #1c93b8);
+  color: #ffffff !important;
+  border: none;
+  padding: 8px 18px;
+  border-radius: 25px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  transition: all 0.4s ease;
+  margin-left: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
+}
+
+.logout-button:hover {
+  background: linear-gradient(135deg, #ff6b81, #ff4757);
+  box-shadow: 0 10px 20px rgba(255, 107, 129, 0.4);
+  transform: translateY(-3px);
+}
+
+.logout-button:active {
+  background: linear-gradient(135deg, #ff4757, #ff6b81);
+  transform: translateY(1px);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+}
+
+.logout-button:focus {
+  outline: none;
+  box-shadow: 0 0 5px rgba(255, 107, 129, 0.8);
+}
+
+/* Responsive Design */
+@media (max-width: 992px) {
+  .custom-navbar {
+    padding: 10px 0;
+  }
+
+  .navbar-brand-custom {
+    font-size: 1.3rem;
+  }
+
+  .nav-link-custom {
+    font-size: 1rem;
+    padding: 8px 12px;
+  }
+
+  .logout-button {
+    padding: 6px 15px;
+    font-size: 0.85rem;
+    margin-left: 10px;
+  }
+}

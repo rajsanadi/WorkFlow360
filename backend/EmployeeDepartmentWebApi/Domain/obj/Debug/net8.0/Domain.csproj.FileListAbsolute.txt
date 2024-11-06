@@ -1,0 +1,70 @@
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Users\TGSUser111\source\repos\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Users\TGSUser111\Desktop\Raj Final Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Users\TGSUser111\Desktop\Raj's FullStack Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Users\TGSUser111\Desktop\Raj's Final Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Users\Ashambhraj Sanadi\Downloads\Raj's Final Project\Raj's Final Project\EmployeeDepartmentWebApi\Domain\obj\Debug\net8.0\ref\Domain.dll
